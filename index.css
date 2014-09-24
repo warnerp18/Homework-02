@@ -1,0 +1,85 @@
+.header {
+    background-color: none;
+    background-image: url("https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/175565_627955350745_63628506_o.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: 0px 5%;
+}
+
+.container {
+	background-color: #FFFFCC;
+}
+
+.left {
+	width: 20%;
+	vertical-align:top;
+	text-align:left;
+	display:inline-block;
+	min-height: 1450px;
+	border-top: 350px;
+	background-color: #99CCFF;
+	}
+#name {
+	color: #333333;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: decorative;
+
+}
+.left p {
+	display:inline-block;
+	color: white;
+	vertical-align: top;
+	text-align: left;
+	font-family: fantasy;
+	font-size: 17px;
+
+}
+
+li {
+	display:inline-block;
+	color: white;
+	vertical-align: top;
+	text-align: left;
+	font-family: fantasy;
+	font-size: 17px;
+
+}
+
+/*I can't get my text formatted*/
+
+.right{
+	display:inline-block;
+	width:79%;
+	color:black;	
+	vertical-align: top;
+	min-height: 300px;
+	text-align: center;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+a{
+	color:white;
+}
+
+#title {
+	font-size: 30px;
+	color: #393939;
+	font-weight: bold;
+}
+
+#title:hover {
+	color: #D7D7D7;
+}
+
+a:hover {
+text-decoration: blink;
+}
+
+}
+a:visited { 
+	text-decoration: none; color:white;
+}
